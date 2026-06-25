@@ -37,6 +37,6 @@ These are the application sources. Each is meant to be dropped into the mcuxsdk
 
 ---
 
-> 🌱 *This README is updated as new projects are added.* Next ideas: full HSV (saturation + brightness), gamma correction, white-balance tuning, and non-blocking timing via SysTick.
+> 🌱 *This README is updated as new projects are added.* See [`ROADMAP.md`](./ROADMAP.md) for the running checklist of board-only projects to build next (timers, ADC, RTC, watchdog, a UART shell, and more).
 
 Licensed under the terms in [LICENSE](./LICENSE).
